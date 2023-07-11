@@ -1,0 +1,16 @@
+{
+  "name": "11Jul_A",
+  "type": "package",
+  "blockId": "Db6ex_r1zp6-SDnVII4EY",
+  "source": {
+    "https": "https://github.com/grgshiji/11Jul_A.git",
+    "ssh": "git@github.com:grgshiji/11Jul_A.git",
+    "branch": "block_11Jul_A"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
